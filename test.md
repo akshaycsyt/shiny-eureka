@@ -15,3 +15,5 @@ this is an update for testing git commit. its awesome!
 another change
 
 anonther awesome change!
+
+the final change - and again its awesome! with more bugs!
